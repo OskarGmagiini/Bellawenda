@@ -37,7 +37,7 @@ button:hover{
 .burger-nav{
     position: sticky;
     top: 0;
-    background-image: url("images/menu_7588931.png");
+    background-image: url("menu_7588931.png");
     background-size: cover;
     background-position: center;
     width: 30px;
@@ -135,7 +135,7 @@ font-weight: 300;
 #TopPhoto{
     height: 274px;
     width: 100%;
-    background-image: url("images/481897614_657755430105311_1551829371739882294_n.jpg");
+    background-image: url("481897614_657755430105311_1551829371739882294_n.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 526px 274px;
@@ -251,7 +251,7 @@ background-color: white;
 
 }
 #TopPhotoSection{
-    background: url("images/banner.png");
+    background: url("banner.png");
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
@@ -316,30 +316,31 @@ background-color: white;
     
     }
 #prod1{
-    background: url("/images/product1.png");
+    background: url("product1.png");
     background-position: 50% 30%;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: white;
 }
 #prod2{
-        background: url("/images/product2.png");
+        background: url("product2.png");
     background-position: 50% 30%;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: white;
 }
 #prod3{
-        background: url("/images/product3.png");
+        background: url("product3.png");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: white;
 }
 #prod4{
-        background: url("/images/product4.png");
+        background: url("product4.png");
     background-position: 50% 30%;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: white;
+
 }
