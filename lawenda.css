@@ -134,7 +134,7 @@ font-weight: 300;
 #TopPhoto{
     height: 274px;
     width: 100%;
-    background-image: url("481897614_657755430105311_1551829371739882294_n.jpg");
+    background-image: url("banner.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 526px 274px;
@@ -251,7 +251,7 @@ background-color: white;
 
 }
 #TopPhotoSection{
-    background: url("/banner.png");
+    background: url("banner.png");
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
@@ -404,13 +404,8 @@ li img{
     color: white;
     margin-bottom: 1vh;
 }
-.VievProdDesc{
-    width: 200px;
-
-    height: 200px;
-
-    background-color: white;
     position: fixed;
     right: 50%;
     top: 50%;
+
 }
